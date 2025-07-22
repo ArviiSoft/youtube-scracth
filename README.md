@@ -38,8 +38,6 @@ Open index.html with any browser (no server required)
 | ⚡ Instant Feedback            | Loading indicators, error handling, and responsive design included         |
 ----------------------------------------------------------------------------------------------------------------
 
----
-
 ## 🔑 How to Get a YouTube API Key
 
 1. Go to [Google Cloud Console](https://console.cloud.google.com/)
